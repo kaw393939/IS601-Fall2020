@@ -38,3 +38,16 @@ merge it.
 Note: If you put a bunch of code in a branch then you will cause problems.  You need to keep your branches and commits 
 organized because there will be merge conflicts, which means GIT can't figure out what code should be merged 
 automatically and then you will be prompted to manually edit the files on GitHub or on WebStorm.
+
+## Forking vs Cloning 
+
+Forking copies the repo on Git to your account and allows to push and make changes.  Cloning copies the code to your
+ local computer.  To send changes to a cloned repo, you need to be an admin / collaborator, which the owner of the repo needs to add you to.  Forking allows you to take a copy and not be added as a collaborator, but still send your changes to the origin / original repo you forked from, so that the owner of the repo can incorporate your changes without needing to add you as a collaborator.
+
+###  Forking Steps
+1.  Click fork on source repo to copy to your account
+2.  Once the source repo is copied clone it from your account
+3.  Branch, edit, commit, push changes to your account
+4.  Create a new pull request and click "Compare across forks" to send a pull request to the source repository, make 
+sure you have the correct account and repos selected on the left i.e. the source account.
+5.  Once the pull request is created then the owner of the source acc
