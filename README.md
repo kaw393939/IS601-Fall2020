@@ -2,7 +2,8 @@
 
 ## Course Live Session Recordings
 1. [Session 1](https://youtu.be/P4yXk5-iw_I)
-
+2, [Session 2 - Part 1](https://youtu.be/vXJ1qrnfamM)
+3. [Session 2 - Part 2)(https://youtu.be/-yGJA4rvcmo)
 
 ## Course Resources
 
