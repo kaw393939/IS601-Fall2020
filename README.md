@@ -4,6 +4,8 @@
 1. [Session 1](https://youtu.be/P4yXk5-iw_I)
 2. [Session 2 - Part 1](https://youtu.be/vXJ1qrnfamM)
 3. [Session 2 - Part 2](https://youtu.be/-yGJA4rvcmo)
+4. [Session 3](https://youtu.be/qfRar6UeoGo) - Code from class: [here](https://github.com/kaw393939/HistoryOfInternet) 
+
 
 ## Course Resources
 
