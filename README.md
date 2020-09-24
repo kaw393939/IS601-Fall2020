@@ -2,11 +2,17 @@
 
 ## Course Live Session Recordings
 1. [Session 1](https://youtu.be/P4yXk5-iw_I)
+
 2a. [Session 2 - Part 1](https://youtu.be/vXJ1qrnfamM)
+
 2b. [Session 2 - Part 2](https://youtu.be/-yGJA4rvcmo)
+
 3. [Session 3](https://youtu.be/qfRar6UeoGo) - Code from class: [here](https://github.com/kaw393939/HistoryOfInternet) 
+
 4a. [Session 4 - Part 1](https://youtu.be/lKHgZJ9jlG4) - Code From Class - [here](https://github.com/kaw393939/601HistoryDemo2)
+
 4b. [Session 4 - Part 2](https://youtu.be/5M7gF9zvKtI)
+
 4c. [Session 4 - Part 3](https://youtu.be/Phv4lb7L7So)
 ## Course Resources
 
