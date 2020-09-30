@@ -15,7 +15,7 @@
 
 4c. [Session 4 - Part 3](https://youtu.be/Phv4lb7L7So)
 
-5a.  [Diagram a URL](url_diagram.png)
+5a.  [Session 5](https://youtu.be/ZsNx2oPdJqg) - [Diagram a URL](url_diagram.png)
 ## Course Resources
 
 1. [Markdown Mastery - Language to write HTML easily](https://guides.github.com/features/mastering-markdown/)
