@@ -18,6 +18,7 @@
 5a. [Session 5](https://youtu.be/ZsNx2oPdJqg) - [Diagram a URL](url_diagram.png)
 
 6.  [Session 6](https://youtu.be/M7h8WoFGGrk)
+7.  [Session 7](https://youtu.be/5RwK5Do2N8w)
 
 ## Course Resources
 
