@@ -19,7 +19,7 @@
 
 6.  [Session 6](https://youtu.be/M7h8WoFGGrk)
 7.  [Session 7](https://youtu.be/5RwK5Do2N8w)
-8.  [Session 8]() In Progress
+8.  [Session 8](https://youtu.be/ZU2_uXNSBoM) In Progress
 
 ## Course Resources
 
